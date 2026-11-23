@@ -15,12 +15,10 @@ namespace GNet38_C_Basics05
             // Console.WriteLine(book.password);
             //private مش هتطبع حاجة لانها 
             #endregion
-            #region Questionز2
-            //Add an internal int copiesInStock = 5; field to Book. Print it from Main. Does it compile?
-            // Why ?
-            //Book add = new Book();
-            //Console.WriteLine(add.copieslnStock);
-            //هيشتغل لانه intenal داخل المشروع 
+            #region Question2
+           //Book book = new Book();
+           //Console.WriteLine(book.copieslnStock);
+            
             #endregion
             #region Question3
             //Add a public string Title; field to Book. Set it and print it from Main.
@@ -80,10 +78,10 @@ namespace GNet38_C_Basics05
             //{
             //    Console.WriteLine("Unknown genre");
             //}
-            
-            #endregion
-            
 
+            #endregion
+
+         
         }
     }
 }
