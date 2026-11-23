@@ -15,7 +15,7 @@ namespace GNet38_C_Basics05
             // Console.WriteLine(book.password);
             //private مش هتطبع حاجة لانها 
             #endregion
-            #region Question2
+            #region Questionز2
             //Add an internal int copiesInStock = 5; field to Book. Print it from Main. Does it compile?
             // Why ?
             //Book add = new Book();
